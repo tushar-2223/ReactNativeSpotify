@@ -1,3 +1,6 @@
+[![Spotify Video](https://i.sstatic.net/Vp2cE.png)](https://youtube.com/shorts/jsJwzvrgYK8?si=xbatR8-cMnlPf4cB)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
